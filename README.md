@@ -28,11 +28,12 @@ Adventure Works is a renowned global manufacturing company specializing in the p
 <p align="center">
     <img src='https://github.com/ritobrotoghosh/PowerBI-AdventureWorks/blob/main/AW%20Pt%204.png' width="600">
 </p>
+
 ## Some Important insights from the Dashboard
 
-- Leading product brands in terms of overall profitability are Hermanos and Ebony.
-- At the same time, Plato demonstrates an impressive profit margin performance at 63.6%.
-- Horatio has an alarmingly high return rate of 1.26%.
-- USA and Canada falling behind targeted revenue.
-- Mexico is surpassing revenue expectations.
-- The first week of December 1998 generated an all-time high revenue, totaling $44,860.
+- December 2021 marked the highest monthly revenue at 1.6 Million USD.
+- Post June 2020 there is a significant dip in revenue, most probably caused by covid with November 2020 recording the lowest revenue at 326K USD.
+- August 2021 saw a major boost in the number of customers.
+- A major volume of customers come from the low and average salary bracket, so the products need to be priced accordingly.
+- Sports Helmet has an alarmingly high return rate which needs to be addressed immediately.
+- Lots of room to grow in the European regions.
