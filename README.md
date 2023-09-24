@@ -2,7 +2,7 @@
 
 The following dashboard was created as part of a Maven Analytics project.
 
-Link to [Interactive Dashboard](novypro.com/project/performance-analysis-and-customer-segmentation-of-adventure-works)
+Link to [Interactive Dashboard](https://www.novypro.com/project/performance-analysis-and-customer-segmentation-of-adventure-works)
 
 ## Problem statement
 
