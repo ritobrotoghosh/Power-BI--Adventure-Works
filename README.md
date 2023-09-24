@@ -11,15 +11,23 @@ Adventure Works is a renowned global manufacturing company specializing in the p
 ## Data Model
 
 <p align="center">
-    <img src='https://github.com/ritobrotoghosh/PowerBI-MavenMarketAnalysis/blob/main/Data%20Model.png' height="400">
+    <img src='https://github.com/ritobrotoghosh/PowerBI-AdventureWorks/blob/main/AW%20Data%20Model.png' height="400">
 </p>
 
 ## Overall Analysis View
 
 <p align="center">
-    <img src='https://github.com/ritobrotoghosh/PowerBI-MavenMarketAnalysis/blob/main/Dashboard%20Overview.png' width="600">
+    <img src='https://github.com/ritobrotoghosh/PowerBI-AdventureWorks/blob/main/AW%20Pt%201.png' width="600">
 </p>
-
+<p align="center">
+    <img src='https://github.com/ritobrotoghosh/PowerBI-AdventureWorks/blob/main/AW%20Pt%202.png' width="600">
+</p>
+<p align="center">
+    <img src='https://github.com/ritobrotoghosh/PowerBI-AdventureWorks/blob/main/AW%20Pt%203.png' width="600">
+</p>
+<p align="center">
+    <img src='https://github.com/ritobrotoghosh/PowerBI-AdventureWorks/blob/main/AW%20Pt%204.png' width="600">
+</p>
 ## Some Important insights from the Dashboard
 
 - Leading product brands in terms of overall profitability are Hermanos and Ebony.
