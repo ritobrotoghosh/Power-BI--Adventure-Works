@@ -34,6 +34,6 @@ Adventure Works is a renowned global manufacturing company specializing in the p
 - December 2021 marked the highest monthly revenue at 1.6 Million USD.
 - Post June 2020 there is a significant dip in revenue, most probably caused by covid with November 2020 recording the lowest revenue at 326K USD.
 - August 2021 saw a major boost in the number of customers.
-- A major volume of customers come from the low and average salary bracket, so the products need to be priced accordingly.
+- A major volume of customers comes from the low and average salary bracket, so the products need to be priced accordingly.
 - Sports Helmet has an alarmingly high return rate which needs to be addressed immediately.
 - Lots of room to grow in the European regions.
