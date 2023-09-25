@@ -36,4 +36,5 @@ Adventure Works is a renowned global manufacturing company specializing in the p
 - August 2021 saw a major boost in the number of customers.
 - A major volume of customers comes from the low and average salary bracket, so the products need to be priced accordingly.
 - Sports Helmet has an alarmingly high return rate which needs to be addressed immediately.
-- Lots of room to grow in the European regions.
+- Lots of room for growth in the European regions.
+- There's an opportunity to increase the Profit Margin by 16% with just a 10% increment is product price.
