@@ -1,4 +1,4 @@
-# Adventure Works
+# Adventure Works Analysis
 
 The following dashboard was created as part of a Maven Analytics project.
 
