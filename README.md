@@ -1,4 +1,4 @@
-## PowerBI-AdventureWorks
+# Power-BI--Adventure-Works
 
 The following dashboard was created as part of a Maven Analytics project.
 
